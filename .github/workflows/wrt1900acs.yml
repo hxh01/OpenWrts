@@ -10,7 +10,7 @@ on:
         default: 'false'
 
 env:
-  OPNAME: 'Raspberry Pi3B+'
+  OPNAME: 'WRT1900_ACS_V2'
   REPO_URL: https://github.com/coolsnowwolf/lede
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
